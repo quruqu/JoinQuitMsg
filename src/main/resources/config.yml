@@ -1,0 +1,7 @@
+first-join-message: "&e&l+ &f&l%player%"
+
+join-message: "&a&l+ &f&l%player%"
+
+quit-message: "&c&l- &f&l%player%"
+
+name-change-join-message: "&a&l+ &f&l%player% (before %old%)"
