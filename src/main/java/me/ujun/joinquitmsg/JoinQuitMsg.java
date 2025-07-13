@@ -1,18 +1,11 @@
-package me.ujun;
+package me.ujun.joinquitmsg;
 
-import me.ujun.commands.ReloadCMD;
-import me.ujun.config.ConfigHandler;
-import me.ujun.listeners.PlayerJoinListener;
-import me.ujun.listeners.PlayerQuitListener;
-import me.ujun.saving.DataFile;
-import org.bukkit.Bukkit;
-import org.bukkit.entity.Player;
-import org.bukkit.event.EventHandler;
-import org.bukkit.event.Listener;
-import org.bukkit.event.player.PlayerJoinEvent;
-import org.bukkit.event.player.PlayerQuitEvent;
+import me.ujun.joinquitmsg.commands.ReloadCMD;
+import me.ujun.joinquitmsg.config.ConfigHandler;
+import me.ujun.joinquitmsg.listeners.PlayerJoinListener;
+import me.ujun.joinquitmsg.listeners.PlayerQuitListener;
+import me.ujun.joinquitmsg.saving.DataFile;
 import org.bukkit.plugin.java.JavaPlugin;
-import org.bukkit.scheduler.BukkitRunnable;
 
 public final class JoinQuitMsg extends JavaPlugin {
     private DataFile dataFile;

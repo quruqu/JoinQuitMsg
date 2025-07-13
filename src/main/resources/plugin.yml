@@ -1,6 +1,6 @@
 name: JoinQuitMsg
-version: '1.0.0'
-main: me.ujun.JoinQuitMsg
+version: '1.0.1'
+main: me.ujun.joinquitmsg.JoinQuitMsg
 api-version: '1.21'
 commands:
   joinquitmsg-reload:

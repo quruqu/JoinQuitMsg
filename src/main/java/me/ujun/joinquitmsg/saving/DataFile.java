@@ -1,4 +1,4 @@
-package me.ujun.saving;
+package me.ujun.joinquitmsg.saving;
 
 import org.bukkit.configuration.ConfigurationSection;
 import org.bukkit.configuration.file.FileConfiguration;

@@ -1,7 +1,7 @@
-package me.ujun.listeners;
+package me.ujun.joinquitmsg.listeners;
 
-import me.ujun.config.ConfigHandler;
-import me.ujun.saving.DataFile;
+import me.ujun.joinquitmsg.config.ConfigHandler;
+import me.ujun.joinquitmsg.saving.DataFile;
 import org.bukkit.ChatColor;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;

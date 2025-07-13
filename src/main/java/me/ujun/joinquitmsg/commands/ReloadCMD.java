@@ -1,6 +1,6 @@
-package me.ujun.commands;
+package me.ujun.joinquitmsg.commands;
 
-import me.ujun.config.ConfigHandler;
+import me.ujun.joinquitmsg.config.ConfigHandler;
 import org.bukkit.ChatColor;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;

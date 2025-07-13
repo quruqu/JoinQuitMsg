@@ -1,4 +1,4 @@
-package me.ujun.config;
+package me.ujun.joinquitmsg.config;
 
 import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.plugin.java.JavaPlugin;
